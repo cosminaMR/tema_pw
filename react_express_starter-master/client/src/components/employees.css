@@ -1,0 +1,25 @@
+.pageNum{
+    width:45px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bold;
+}
+
+.button {
+    border:none; 
+    color:rgb(255, 255, 255);
+}
+
+#employees{
+    background-image: url('../images/pw4.jpeg');
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:#464646;
+    padding:0;
+    padding-top: 5%;
+    padding-right: 6%;
+    padding-left: 6%;
+    padding-bottom: 0%;
+}

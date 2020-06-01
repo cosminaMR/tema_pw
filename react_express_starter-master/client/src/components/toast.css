@@ -1,0 +1,7 @@
+#toast {
+    position: fixed;
+    top:10px;
+    left:10px;
+    z-index: 1;
+    box-shadow: 0 4px 8px 0;
+}

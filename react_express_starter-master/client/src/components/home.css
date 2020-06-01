@@ -1,0 +1,41 @@
+h3{
+    text-align: center;
+    color:white;
+}
+h1,p {
+    text-align: center;
+    color:white;
+    font-family: DejaVu Sans Mono, monospace;
+}
+h4{
+    margin-bottom: 1em;
+}
+.jumbotron{
+    margin-bottom: 4em;
+    width: 100%;
+    background-color: rgb(12, 12, 12,0.5);
+   
+}
+
+.person-wrapper{
+    margin-bottom: 2em;
+}
+
+.profile-pic {
+    width:50%;
+}
+
+
+#home{
+    background-image: url('../images/pw5.jpeg');
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:#464646;
+    padding:0;
+    padding-top: 1%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
